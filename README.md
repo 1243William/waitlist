@@ -1,0 +1,2 @@
+# waitlist
+waitlist for UniGhana
